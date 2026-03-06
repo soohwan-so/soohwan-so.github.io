@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Soohwan So"
-# description              : "M.S. student at Sungkyunkwan Univ."
+description              : "M.S. student at Sungkyunkwan Univ. "
 repository               : "soohwan-so/soohwan-so.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -27,8 +27,8 @@ author:
   location         : "Seoul, South Korea"
   employer         :
   pubmed           : 
-  # googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
-  # email            : "Lorem@ipsum.com"
+  googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
+  email            : "Lorem@ipsum.com"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
