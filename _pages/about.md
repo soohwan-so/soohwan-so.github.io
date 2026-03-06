@@ -33,6 +33,12 @@ Hi, I'm Soohwan So! I'm a first-year M.S. student @ Sungkyunkwan University, adv
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1"> -->
 
+# 💡 Project
+- *2024.01 - 2024.12*, CPU-based High-speed Object Detector. Samsung Electronics - Global Technology Research
+- *2024.03 - 2024.12*, Smartphone Glass Visual Inspection System. Samsung Electronics - Global Technology Research
+- *2021-01 - 2022-03*, Smartphone Visual Inspection System. Samsung Electronics - Global Technology Research
+- *2020-04 - 2023-11*, AI-based Computer Vision Inspection Solution. Samsung Electronics - Global Technology Research
+
 <!-- [Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
 
 **Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
