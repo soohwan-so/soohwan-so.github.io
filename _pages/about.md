@@ -68,5 +68,5 @@ Hi, I'm Soohwan So! I'm a first-year M.S. student @ Sungkyunkwan University, adv
 
 
 # 💼 Work Experience 
-- *2018.03 - Current*, [Samsung Electronics](https://www.samsung.com/sec/about-us/company-info/) - Global Technology Research, Suwon, Republic Of Korea
-- *2017.01 - 2017.08*, [Korea Institute of Science and Technology](https://kist.re.kr/ko/intro/key-contacts.do), Seoul, Republic Of Korea
+- *2018.03 - Current*, [Samsung Electronics](https://www.samsung.com/) - Global Technology Research, Suwon, Republic Of Korea
+- *2017.01 - 2017.08*, [Korea Institute of Science and Technology](https://kist.re.kr/ko/), Seoul, Republic Of Korea
