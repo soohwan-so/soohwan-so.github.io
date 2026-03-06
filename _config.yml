@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Soohwan So"
-description              : "M.S. student at Sungkyunkwan Univ."
+# description              : "M.S. student at Sungkyunkwan Univ."
 repository               : "soohwan-so/soohwan-so.github.io"
 google_scholar_stats_use_cdn : true
 
