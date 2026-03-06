@@ -62,5 +62,9 @@ Hi, I'm Soohwan So! I'm a first-year M.S. student @ Sungkyunkwan University, adv
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
+# 💡 Patents
+- POINTING SYSTEM HAVING WIRELESS MOUSE FUNCTION, KR-Registration No. 10-1835264
+
+
 # 💼 Work Experience 
 - *2018.03 - Current*, [Samsung Electronics](https://www.samsung.com/sec/about-us/company-info/), Korea.
